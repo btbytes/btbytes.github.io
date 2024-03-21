@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Text Search.md",
+                "file": "Approximate Nearest Neighbor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89ea7f47855bfae8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "references/bahdanau2014neural.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa733d37451d1aa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attention.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Full Text Search.md",
+                "file": "Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Full Text Search.md",
+                "file": "Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Full Text Search.md"
+                "file": "Attention.md"
               }
             }
           }
@@ -146,13 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb728016da1b5fb2",
+  "active": "fa733d37451d1aa6",
   "lastOpenFiles": [
+    "references/bahdanau2014neural.md",
+    "Attention.md",
+    "DSPy.md",
+    "Approximate Nearest Neighbor.md",
+    "Full Text Search.md",
+    "databases",
+    "genai",
     "test.html",
     "Embeddings.md",
-    "Full Text Search.md",
     "Semantic Similarity Search.md",
-    "Approximate Nearest Neighbor.md",
     "index.md",
     "serve.py",
     "references/Stanford DSP.md",
@@ -179,7 +209,6 @@
     "IVFFlat.md",
     "HNSW.md",
     "Generative AI.md",
-    "Foundation Model.md",
-    "DSPy.md"
+    "Foundation Model.md"
   ]
 }
