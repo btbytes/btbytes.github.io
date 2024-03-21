@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59d1d9dece82316b",
+  "active": "eb728016da1b5fb2",
   "lastOpenFiles": [
+    "test.html",
     "Embeddings.md",
     "Full Text Search.md",
     "Semantic Similarity Search.md",
