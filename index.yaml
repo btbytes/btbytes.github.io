@@ -2,14 +2,14 @@
 # https://github.com/srid/emanote/blob/master/emanote/default/index.yaml
 
 page:
-  siteTitle: Emanote Template
+  siteTitle: Perfect Garden
 
 template:
-  theme: red
+  theme: green
 
   # You can add your own variables here, like editBaseUrl.
   # See after-note.tpl to see where editBaseUrl gets used.
-  editBaseUrl: https://github.com/srid/emanote-template/edit/master
+  editBaseUrl: https://github.com/btbytes/btbytes.github.io/edit/master
 
   # Uncomment this to get neuron-style pages
   # name: /templates/layouts/note
@@ -21,4 +21,4 @@ template:
     collapsed: false
 
   # If you are hosting on GitLab Pages, you may want to remove this.
-  urlStrategy: pretty
+  # urlStrategy: pretty
